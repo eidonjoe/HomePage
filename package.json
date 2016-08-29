@@ -1,0 +1,21 @@
+{
+  "name": "sipchomepage",
+  "description": "A web station for SIPC",
+  "version": "0.0.1",
+  "repository": "https://github.com/SIPC115/HomePage",
+  "bugs": "https://github.com/SIPC115/HomePage/issues",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-body": "^4.2.0",
+    "co-views": "^2.1.0",
+    "koa": "^1.2.1",
+    "koa-logger": "^1.3.0",
+    "koa-router": "^5.4.0",
+    "mongodb": "^2.2.8",
+    "mongoskin": "^2.1.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
+}
